@@ -13,7 +13,8 @@
 * Se lo guarda siempre fuera de la carpeta .git 
 
 ## Punto 3) c) 
-* Al subir los archivos a gitHub, veo que hay ciertos archivos inecesarios, como los archivos de extensión .exe que se generan al ejecutar mi programa, así también como la carpeta .vscode, que contiene los archivos .json
+* Veo que hay ciertos archivos inecesarios, como los archivos de extensión .exe que se generan al ejecutar mi programa, así también como la carpeta .vscode, que contiene los archivos .json
 
 ## punto 3) g)
 * El resultado es el mismo ya que no agregamos ningún archivo nuevo, sino que solamente actualizamos el archivo subido.
+* Al subir el punto 4, vemos que como ejecuto el git add . , subo todo el repositorio, por lo tanto, existen ciertos archivos nuevos como el readme entre otros.
